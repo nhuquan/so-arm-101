@@ -1,0 +1,8 @@
+# LeRobot source clone (see README, step 1)
+lerobot/
+
+# uv virtualenv
+.venv/
+
+# Camera snapshots and other run outputs
+outputs/
